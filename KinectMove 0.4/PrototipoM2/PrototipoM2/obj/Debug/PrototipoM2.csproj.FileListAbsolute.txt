@@ -1,0 +1,27 @@
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\bin\Debug\PrototipoM2.exe.config
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\obj\Debug\PrototipoM2.csprojResolveAssemblyReference.cache
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\obj\Debug\MainWindow.baml
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\obj\Debug\MainWindow.g.cs
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\obj\Debug\App.g.cs
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\obj\Debug\PrototipoM2_MarkupCompile.cache
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\obj\Debug\PrototipoM2.g.resources
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\obj\Debug\PrototipoM2.Properties.Resources.resources
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\obj\Debug\PrototipoM2.csproj.GenerateResource.Cache
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\bin\Debug\PrototipoM2.exe
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\bin\Debug\PrototipoM2.pdb
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\obj\Debug\PrototipoM2.exe
+C:\Users\home\AppData\Local\Temporary Projects\PrototipoM2\obj\Debug\PrototipoM2.pdb
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\bin\Debug\PrototipoM2.exe.config
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\obj\Debug\PrototipoM2.exe
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\obj\Debug\PrototipoM2.pdb
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\bin\Debug\PrototipoM2.exe
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\bin\Debug\PrototipoM2.pdb
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\obj\Debug\PrototipoM2.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\obj\Debug\MainWindow.baml
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\obj\Debug\MainWindow.g.cs
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\obj\Debug\App.g.cs
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\obj\Debug\PrototipoM2_MarkupCompile.cache
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\obj\Debug\PrototipoM2.g.resources
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\obj\Debug\PrototipoM2.Properties.Resources.resources
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\obj\Debug\PrototipoM2.csproj.GenerateResource.Cache
+C:\Users\home\Documents\Visual Studio 2012\Projects\PrototipoM2\PrototipoM2\bin\Debug\KinectMouseController.dll
