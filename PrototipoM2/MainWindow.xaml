@@ -1,0 +1,22 @@
+﻿<Window x:Class="PrototipoM2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        Title="KinectMove 0.1" Height="578.424" Width="944.516" ResizeMode="NoResize" Loaded="Window_Loaded_1" Opacity="0.82" WindowStyle="None" AllowsTransparency="True">
+    <Grid Margin="0,0,0,38">
+        <Image x:Name="Cprofundidad" HorizontalAlignment="Left" Height="174" Margin="671,288,0,0" VerticalAlignment="Top" Width="218"/>
+        <TextBox x:Name="status" HorizontalAlignment="Left" Height="23" Margin="671,112,0,0" TextWrapping="Wrap" Text="Estatus Actual" VerticalAlignment="Top" Width="220" Foreground="#FF369727" />
+        <TextBox x:Name="statusMD" HorizontalAlignment="Left" Height="23" Margin="671,156,0,0" TextWrapping="Wrap" Text="Estatus Actual" VerticalAlignment="Top" Width="220" Foreground="#FF369727" />
+        <TextBox x:Name="statusMI" HorizontalAlignment="Left" Height="23" Margin="671,195,0,0" TextWrapping="Wrap" Text="Estatus Actual" VerticalAlignment="Top" Width="220" Foreground="#FF369727" />
+        <Label x:Name="MouseZona" Content="      Mouse" Canvas.Left="436" Canvas.Top="41" FontSize="48" Foreground="#FF3CADFB" BorderBrush="Black" Background="#FFEDF8FF" FontWeight="Bold" Margin="339,115,288,214" Opacity="0.995"/>
+        <Label x:Name="EnterZona" Content="Enter" Canvas.Left="30" Canvas.Top="152" Height="57" Width="109" FontSize="36" Foreground="#FF3CFB67" BorderBrush="Black" Background="#FFEFFFED" FontWeight="Bold" Opacity="0.8" Margin="43,238,793,246"/>
+        <Label x:Name="ClickZona" Content="Click" Canvas.Left="142" Canvas.Top="260" Height="57" Width="109" FontSize="36" Foreground="#FFFB4D3C" BorderBrush="Black" Background="#FFFFD4C7" FontWeight="Bold" Opacity="0.75" Margin="150,335,686,148"/>
+        <Canvas x:Name="canvasEsqueleto" HorizontalAlignment="Left" Height="445" Margin="10,58,0,0" VerticalAlignment="Top" Width="623">
+        </Canvas>
+        <Label x:Name="label" Content="Captura Actual" Foreground="#FF4AB600" HorizontalAlignment="Center" FontSize="24" Margin="367,-3,285,474" Width="287"/>
+        <TextBox x:Name="Reso" HorizontalAlignment="Left" Height="23" Margin="669,480,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" Visibility="Collapsed"/>
+        <Button Content="X" HorizontalAlignment="Left" Margin="857,0,0,475" Width="82" Click="Button_Click_1" FontSize="16"/>
+        <Label x:Name="EscZona" Content="Esc" Height="57" Width="109" FontSize="36" Foreground="#FF7800F0" BorderBrush="Black" Background="#FFD6C7FF" FontWeight="Bold" Opacity="0.75" Margin="413,378,423,105"/>
+
+    </Grid>
+</Window>
